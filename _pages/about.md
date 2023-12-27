@@ -17,6 +17,7 @@ redirect_from:
 
 # <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Education</span>
 
+
 ### <span style="font-size: 30px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">Southern University of Science and Technology</span>
 
 - B.E. in Computer Science and Technology, 2020.9 - 2024.6
