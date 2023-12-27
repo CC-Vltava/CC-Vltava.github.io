@@ -37,7 +37,6 @@ redirect_from:
 <span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
 
 - The 2021 ICPC Asia Macau Regional Contest, silver medal
-
 - The 2021 ICPC Asia Shanghai Regional Contest, silver medal
 - The 45th ICPC Asia Kunming Regional Contest, bronze medal
 </span>
@@ -47,7 +46,6 @@ redirect_from:
 <span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
 
 - 2023 SUSTech Outstanding Student Scholarship, second prize
-
 - 2022 SUSTech Outstanding Student Scholarship, second prize
 - 2021 SUSTech Outstanding Student Scholarship, second prize
 </span>
