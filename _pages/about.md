@@ -15,7 +15,7 @@ redirect_from:
 </span>
 
 
-# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Education</span>
+# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Education</span>
 
 
 ### <span style="font-size: 30px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">Southern University of Science and Technology</span>
@@ -28,19 +28,19 @@ redirect_from:
 - Exchange Student, 2023.1 - 2023.5
 - GPA:  3.67/4.00
 
-# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Programming Contest</span>
+# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Programming Contest</span>
 
 - The 2021 ICPC Asia Macau Regional Contest, silver medal
 - The 2021 ICPC Asia Shanghai Regional Contest, silver medal
 - The 45th ICPC Asia Kunming Regional Contest, bronze medal
 
 
-# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Other Honors</span>
+# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Other Honors</span>
 - 2023 SUSTech Outstanding Student Scholarship, second prize
 - 2022 SUSTech Outstanding Student Scholarship, second prize
 - 2021 SUSTech Outstanding Student Scholarship, second prize
 
-# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Experience</span>
+# <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Experience</span>
 
 ### <span style="font-size: 30px; font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">Symbiosis Matrix</span>
 Research engineer of product and technology, 2023.7-2023.9
