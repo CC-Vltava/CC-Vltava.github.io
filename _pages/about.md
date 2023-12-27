@@ -5,6 +5,8 @@ redirect_from:
   - /about.html
 ---
 
+ 
+2
 # <span style="font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">About me</span>
 
 <span style="font-family:'Times New Roman', Times, serif;">I am Chuan Chen. I am senior student in Computer Science and Technology at Southern University of Science and Technology (SUSTech). I am working as a undergraduate research assistant in Guanhua's Lab led by Prof. Guanhua Chen and in IMed Lab led by Prof. Jiang Liu.<br><br>I have various research interest. In NLP fields, my interest lies in feature extraction and reasoning from multimodal data, machine translation. In computer vision fields, my interest lies in depth estimation, image registration, image segmentation.
