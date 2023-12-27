@@ -62,12 +62,9 @@ Research engineer of product and technology, 2023.7-2023.9
 
 ### <span style="font-size: 30px; font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">IMed Lab</span>
 - **Monocular depth estimation based on eye surgical scenarios**
-  - Created a novel virtual surgical dataset with Blender
-  - Created a novel simulated surgical dataset with microscope
-  - Modified model architecture based on Monodepth2
-  - Finetuned image edge smoothing loss function
-  - Built and trained a U-Net model for segmentation
-  - Implemented the Dual Illumination Estimation
+  - Created virtual surgical dataset with Blender and simulated surgical dataset with microscope
+  - Modified model architecture based on Monodepth2 and finetuned image edge smoothing loss function
+  - Built and trained a U-Net model for segmentation and implemented the Dual Illumination Estimation
   - Designed and implemented a website for interaction
 - **Eye image registration based on deep learning**
   - Implemented rigid registration algorithm
