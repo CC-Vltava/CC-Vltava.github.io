@@ -44,7 +44,7 @@ redirect_from:
 
 # <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Experience</span>
 ### <span style="font-size: 30px; font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">Symbiosis Matrix</span>
-*Research engineer of product and technology*      2023.7-2023.9
+*Research engineer of product and technology* 2023.7-2023.9
 - **The Large Language Model**
   - Developed a data cleaning system to enhance data quality
 - **The Multimodal Monitor Retrieval System**
