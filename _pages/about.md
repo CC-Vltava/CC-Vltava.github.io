@@ -1,8 +1,9 @@
+
+
 ## <span style="font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">About me</span>
 
 <span style="font-family:'Times New Roman', Times, serif;">I am Chuan Chen. I am senior student in Computer Science and Technology at Southern University of Science and Technology (SUSTech). I am working as a undergraduate research assistant in Guanhua's Lab led by Prof. Guanhua Chen and in IMed Lab led by Prof. Jiang Liu.<br><br>I have various research interest. In NLP fields, my interest lies in feature extraction and reasoning from multimodal data, machine translation. In computer vision fields, my interest lies in depth estimation, image registration, image segmentation.
 </span>
-
 
 ## <span style="font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Education</span>
 
@@ -16,6 +17,7 @@
 - GPA:  3.67/4.00
 
 ## <span style="font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);"><br>Programming Contest</span>
+
 - The 2021 ICPC Asia Macau Regional Contest, silver medal
 - The 2021 ICPC Asia Shanghai Regional Contest, silver medal
 - The 45th ICPC Asia Kunming Regional Contest, bronze medal
@@ -37,6 +39,8 @@ Research engineer of product and technology, 2023.7-2023.9
   - Employed the CLIP algorithm to improved data quality
   - Proposed an algorithm with YOLOv8 and CLIP to efficiently verify the result
 
+
+
 #### Guanhua's Lab
 - **Extending the languages of LLaMA model**
     - Designed  and implemented a new model architecture based on LLaMA language model by adopting XLM-R, Q-Former, Linear Layer
@@ -56,3 +60,11 @@ Research engineer of product and technology, 2023.7-2023.9
 - **Eye image registration based on deep learning**
   - Implemented rigid registration algorithm
   - Implementing soft registration algorithm
+
+
+
+<span style="font-family:'Times New Roman'; color:rgb(0, 120, 128);"><br>Programming Contest</span>
+<span style="font-family:'Times New Roman'; color:rgb(0, 0, 0);"><br>The 2021 ICPC Asia Macau Regional Contest, silver medal
+The 2021 ICPC Asia Shanghai Regional Contest, silver medal
+The 45th ICPC Asia Kunming Regional Contest, bronze medal</span>
+
