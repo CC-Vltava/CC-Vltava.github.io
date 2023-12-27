@@ -19,23 +19,20 @@ redirect_from:
 
 <span style="font-size: 30px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">Southern University of Science and Technology</span>
 
-<span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
 
 - B.E. in Computer Science and Technology, 2020.9 - 2024.6
 - GPA:  3.82/4.00, 21/220
 - Advisor: Prof. Jiang Liu, IEEE FellowS
-</span>
+
 
 <span style="font-size: 30px; font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">University of California, Berkeley</span>
-<span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
 
 - Exchange Student, 2023.1 - 2023.5
 - GPA:  3.67/4.00
-</span>
+
 
 # <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Programming Contest</span>
 <span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
-
 - The 2021 ICPC Asia Macau Regional Contest, silver medal
 - The 2021 ICPC Asia Shanghai Regional Contest, silver medal
 - The 45th ICPC Asia Kunming Regional Contest, bronze medal
@@ -43,9 +40,7 @@ redirect_from:
 
 
 # <span style="font-size: 40px; font-family:'Times New Roman', Times, serif; color:rgb(0, 120, 128);">Other Honors</span>
-<span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">
-
-- 2023 SUSTech Outstanding Student Scholarship, second prize
+<span style="font-size: 20px;font-family:'Times New Roman', Times, serif; color:rgb(0, 0, 0);">- 2023 SUSTech Outstanding Student Scholarship, second prize
 - 2022 SUSTech Outstanding Student Scholarship, second prize
 - 2021 SUSTech Outstanding Student Scholarship, second prize
 </span>
